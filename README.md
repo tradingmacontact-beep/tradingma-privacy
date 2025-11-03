@@ -1,1 +1,1 @@
-[# tradingma-privacy](https://tradingmacontact-beep.github.io/tradingma-privacy/index.html)
+[# tradingma-privacy](https://tradingmacontact-beep.github.io/tradingma-privacy/)
